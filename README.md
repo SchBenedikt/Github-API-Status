@@ -1,6 +1,7 @@
 In this article, we will explore how to handle connection errors and retries when working with the GitHub API. The GitHub API is a powerful tool for interacting with GitHub repositories and user data, but sometimes network issues or API rate limits can result in connection errors. By implementing retry logic, we can improve the resilience of our applications and ensure a smoother experience for users.
 
-If you like my articles, I would appreciate a like and a comment!
+---
+If you like my articles, I would appreciate a star ⭐ and a comment!
 
 ---
 
