@@ -6,6 +6,9 @@ If you like my articles, I would appreciate a star ⭐ and a comment!
 ---
 <img width="726" alt="image" src="https://github.com/SchBenedikt/Github-API-Status/assets/137323528/c65bb6d7-d5dd-441a-85fb-6b189b5f4760">
 
+<img width="726" alt="image" src="https://github.com/SchBenedikt/Github-API-Status/assets/137323528/5d4bb36d-eca5-45cc-93f4-d68409422b14">
+
+
 
 ## The Challenge: Connection Errors
 
