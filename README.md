@@ -8,8 +8,6 @@ If you like my articles, I would appreciate a star ⭐ and a comment!
 
 <img width="726" alt="image" src="https://github.com/SchBenedikt/Github-API-Status/assets/137323528/5d4bb36d-eca5-45cc-93f4-d68409422b14">
 
-
-
 ## The Challenge: Connection Errors
 
 When making API requests, we may encounter connection errors due to various reasons such as network instability, server issues, or API rate limits. These errors can disrupt the flow of our application and lead to a poor user experience. It's important to handle these errors gracefully and provide appropriate feedback to the user.
